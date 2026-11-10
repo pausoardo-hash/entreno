@@ -1,0 +1,14 @@
+# Nunca subir respaldos ni datos personales
+*respaldo*.json
+*backup*.json
+datos/
+private/
+.env
+.env.*
+*.pem
+*.key
+
+# Sistema
+.DS_Store
+Thumbs.db
+node_modules/
